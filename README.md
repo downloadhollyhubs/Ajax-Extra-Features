@@ -9,11 +9,11 @@
   <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-black?logo=youtube" width="150">
 
 
-[![Stars](https://img.shields.io/github/stars/downloadhollyhubs/Ajax-Extra-Features?style=flat-square&color=green)](https://github.com/Aadhi000/Ajax-Extra-Features/stargazers)
-[![Forks](https://img.shields.io/github/forks/downloadhollyhubs/Ajax-Extra-Features?style=flat-square&color=blue)](https://github.com/Aadhi000/Ajax-Extra-Features/fork)
-[![Size](https://img.shields.io/github/repo-size/downloadhollyhubs/Ajax-Extra-Features?style=flat-square&color=red)](https://github.com/Aadhi000/Ajax-Extra-Features)   
+[![Stars](https://img.shields.io/github/stars/downloadhollyhubs/Ajax-Extra-Features?style=flat-square&color=green)](https://github.com/downloadhollyhubs/Ajax-Extra-Features/stargazers)
+[![Forks](https://img.shields.io/github/forks/downloadhollyhubs/Ajax-Extra-Features?style=flat-square&color=blue)](https://github.com/downloadhollyhubs/Ajax-Extra-Features/fork)
+[![Size](https://img.shields.io/github/repo-size/downloadhollyhubs/Ajax-Extra-Features?style=flat-square&color=red)](https://github.com/downloadhollyhubs/Ajax-Extra-Features)   
 [![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/downloadhollyhubs/Ajax-Extra-Features)   
-[![Contributors](https://img.shields.io/github/contributors/downloadhollyhubs/Ajax-Extra-Features?style=flat-square&color=green)](https://github.com/Aadhi000/Ajax-Extra-Features/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/downloadhollyhubs/Ajax-Extra-Features?style=flat-square&color=green)](https://github.com/downloadhollyhubs/Ajax-Extra-Features/graphs/contributors)
 ## Features
 
 - [x] Auto Filter
